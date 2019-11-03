@@ -24,31 +24,31 @@ My project is about my top 5 favorite cartoons from when I was a kid From each m
 * *Fairly Odd Parents*
 
 # My Favorite From All Networks
-1.*The Grim Adventures Of Billy and Mandy*
+1.**The Grim Adventures Of Billy and Mandy*
 
 https://www.imdb.com/title/tt0292800/
 
 ![Billy and mandy](./grim.jpg)
 
-2.*Invader Zim*
+2.**Invader Zim*
 
 [https://www.imdb.com/title/tt0235923/]
 
 ![Invader Zim](./zim.jpg)
 
-3.*Avatar: The Last Airbender*
+3.**Avatar: The Last Airbender*
 
 [https://www.imdb.com/title/tt0417299/]
 
 ![Avatar}](./avatar.jpg)
 
-4.*Lilo & Stitch*
+4.**Lilo & Stitch*
 
 [https://www.imdb.com/title/tt0364774/]
 
 ![Lilo & Stitch](./Lilo.jpg)
 
-5.*Foster's Home for Imaginary Friends*
+5.**Foster's Home for Imaginary Friends*
 
 [https://www.imdb.com/title/tt0419326/]
 
