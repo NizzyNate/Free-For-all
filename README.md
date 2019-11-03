@@ -10,11 +10,11 @@ My project is about my top 5 favorite cartoons from when i was a kid From each m
 * *Chowder*
 
 # **Disney Channel**
-* Lilo & Stitch
-* Recess
-* Proud Familiy
-* Kid vs Kat
-* American Dragon: Jake Long 
+* *Lilo & Stitch
+* *Recess
+* *Proud Familiy
+* *Kid vs Kat
+* *American Dragon: Jake Long 
 
 # **Nickoloadean**
 * *Invader Zim*
@@ -25,7 +25,12 @@ My project is about my top 5 favorite cartoons from when i was a kid From each m
 
 # My Favorite From All Networks
 1.*The Grim Adventures Of Billy and Mandy*
+
 2.*Invader Zim*
+
 3.*Avatar: The Last Airbender*
+
 4.*Lilo & Stitch*
+
 5.*Foster's Home for Imaginary Friends*
+
