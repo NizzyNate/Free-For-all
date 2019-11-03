@@ -1,6 +1,6 @@
 # Free-For-all
 
-My project is about my top 5 favorite cartoons from when i was a kid From each major channel cartoon network, Nickoloadean, and Disney channel. i will only use shows from the 2000's that i have seen and this is just my opinon about the show.
+My project is about my top 5 favorite cartoons from when I was a kid From each major channel cartoon network, Nickoloadean, and Disney channel. I will only use shows from the 2000's that I have seen and this is just my opinon about the show.
 
 # **Cartoon Network**
 * *The Grim Adventures Of Billy and Mandy*
@@ -30,10 +30,16 @@ My project is about my top 5 favorite cartoons from when i was a kid From each m
 
 2.*Invader Zim*
 
+![Invader Zim](./zim.jpg)
 
 3.*Avatar: The Last Airbender*
 
+![Avatar}](./avatar.jpg)
+
 4.*Lilo & Stitch*
+
+![Lilo & Stitch](./Lilo.jpg)
 
 5.*Foster's Home for Imaginary Friends*
 
+![Foster's](./fosters.jpg)
