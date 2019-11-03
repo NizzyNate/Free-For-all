@@ -25,7 +25,7 @@ My project is about my top 5 favorite cartoons from when i was a kid From each m
 
 # My Favorite From All Networks
 1.*The Grim Adventures Of Billy and Mandy*
- ! [Billy and mandy](./grim.jpg)
+ ![Billy and mandy](./grim.jpg)
 2.*Invader Zim*
 
 3.*Avatar: The Last Airbender*
